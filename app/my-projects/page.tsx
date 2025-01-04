@@ -14,7 +14,8 @@ const Page = () => {
           <ProjectCard
               key={index}
               title={project.title}
-              text={project.text}
+              liveLink={project.liveLink}
+              githubLink={project.githubLink}
               image={project.src}
           />
         ))}

@@ -96,53 +96,63 @@ export const Socials = [
 export const Projects = [
   {
     title: "Hospital Management System",
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    liveLink: "https://live-site-link.com",
+    githubLink: "https://github.com/user/repo",
     src: "/HOSPITAL-MANAGEMENT-SYSTEM.png",
     
   },
   {
     title: "Fizzi- Soda App",
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    liveLink: "https://live-site-link.com",
+    githubLink: "https://github.com/user/repo",
     src: "/Fizzi.png",
   },
   {
     title: "Modern Nextjs Portfolio",
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    liveLink: "https://live-site-link.com",
+    githubLink: "https://github.com/user/repo",
     src: "/WebPortfolio.png",
   },
   {
     title: "Matrix themed Website",
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    liveLink: "https://live-site-link.com",
+    githubLink: "https://github.com/user/repo",
     src: "/Matrix.png",
   },
   {
     title: "Admin Dashboard",
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    liveLink: "https://live-site-link.com",
+    githubLink: "https://github.com/user/repo",
     src: "/ADMIN-DASHBOARD.png",
   },
   {
     title: "Zentry Clone",
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    liveLink: "https://live-site-link.com",
+    githubLink: "https://github.com/user/repo",
     src: "/Zentry.webp",
   },
   {
     title: "Brainwave AI",
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    liveLink: "https://live-site-link.com",
+    githubLink: "https://github.com/user/repo",
     src: "/BRAINWAVE-AI.png",
   },
   {
     title: "Ecommerce Website",
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    liveLink: "https://live-site-link.com",
+    githubLink: "https://github.com/user/repo",
     src: "/Ecommerce.png",
   },
   {
     title: "Github Clone",
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    liveLink: "https://live-site-link.com",
+    githubLink: "https://github.com/user/repo",
     src: "/GITHUB-CLONE.png",
   },
   {
     title: "Todo App",
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    liveLink: "https://live-site-link.com",
+    githubLink: "https://github.com/user/repo",
     src: "/TODO-APP.png",
   },
 ];
