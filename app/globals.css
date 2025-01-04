@@ -20,3 +20,8 @@ body {
 .flip-card-back {
   transform: rotateY(180deg);
 }
+
+.icon {
+  width: 24px; /* or any size you prefer */
+  height: 24px;
+}
