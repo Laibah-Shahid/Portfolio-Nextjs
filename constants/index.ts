@@ -78,28 +78,32 @@ export const SkillData = [
 
 export const Socials = [
   {
-    name: "Discord",
-    src: "/instagram.svg",
+    name: "LinkedIn",
+    src: "/linkedin.svg",
+    link: "https://www.linkedin.com/in/laibah-shahid-275474265/",
   },
   {
     name: "Facebook",
-    src: "/facebook.svg",
+    src: "/github.svg",
+    link: "https://github.com/Laibah-Shahid",
   },
   {
-    name: "Instagram",
-    src: "/discord.svg",
+    name: "Thread",
+    src: "/thread.svg",
+    link: "https://www.threads.net/@laibahshahid",
   },
 ];
 export const Projects = [
   {
     title: "Modern Nextjs Website",
     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
-    src: "/NextWebsite.png",
+    src: "/HOSPITAL-MANAGEMENT-SYSTEM.png",
+    
   },
   {
     title: "Space Themed Website",
     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
-    src: "/SpaceWebsite.png",
+    src: "/Fizzi.png",
   },
   {
     title: "Modern Nextjs Portfolio",
@@ -110,6 +114,16 @@ export const Projects = [
     title: "Matrix themed Website",
     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
     src: "/Matrix.png",
+  },
+  {
+    title: "Modern Nextjs Portfolio",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    src: "/ADMIN-DASHBOARD.png",
+  },
+  {
+    title: "Modern Nextjs Portfolio",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    src: "/HOSPITAL-MANAGEMENT-SYSTEM.png",
   },
 ];
 
