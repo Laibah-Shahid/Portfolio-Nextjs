@@ -95,13 +95,13 @@ export const Socials = [
 ];
 export const Projects = [
   {
-    title: "Modern Nextjs Website",
+    title: "Hospital Management System",
     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
     src: "/HOSPITAL-MANAGEMENT-SYSTEM.png",
     
   },
   {
-    title: "Space Themed Website",
+    title: "Fizzi- Soda App",
     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
     src: "/Fizzi.png",
   },
@@ -116,14 +116,34 @@ export const Projects = [
     src: "/Matrix.png",
   },
   {
-    title: "Modern Nextjs Portfolio",
+    title: "Admin Dashboard",
     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
     src: "/ADMIN-DASHBOARD.png",
   },
   {
-    title: "Modern Nextjs Portfolio",
+    title: "Zentry Clone",
     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
-    src: "/HOSPITAL-MANAGEMENT-SYSTEM.png",
+    src: "/Zentry.webp",
+  },
+  {
+    title: "Brainwave AI",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    src: "/BRAINWAVE-AI.png",
+  },
+  {
+    title: "Ecommerce Website",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    src: "/Ecommerce.png",
+  },
+  {
+    title: "Github Clone",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    src: "/GITHUB-CLONE.png",
+  },
+  {
+    title: "Todo App",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    src: "/TODO-APP.png",
   },
 ];
 
