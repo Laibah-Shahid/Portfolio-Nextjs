@@ -26,7 +26,7 @@ export default function Home() {
               href="/my-skills" 
               className="rounded-[20px] group relative bg-blue-500 hover:bg-blue-400 px-5 py-3 text-lg text-white max-w-[200px]"
             >
-              Learn more
+              Skills
             </Link>
             <Link
               href="/my-projects"
